@@ -1,0 +1,39 @@
+{
+  "name": "gas-drain-trap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "\"# GasDrainTrap\"",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0",
+    "solc": "^0.8.30"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.0",
+    "@nomicfoundation/hardhat-toolbox-mocha-ethers": "^3.0.0",
+    "@types/chai": "^4.3.20",
+    "@types/chai-as-promised": "^8.0.2",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.17.2",
+    "chai": "^5.3.3",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.0.1",
+    "mocha": "^11.7.1",
+    "typescript": "~5.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adejare19/GasDrainTrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adejare19/GasDrainTrap/issues"
+  },
+  "homepage": "https://github.com/adejare19/GasDrainTrap#readme",
+  "type": "module"
+}
